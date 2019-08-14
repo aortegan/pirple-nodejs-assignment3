@@ -1,0 +1,32 @@
+[
+		{
+			"id" : 1,
+			"name" : "Napolitana",
+      "ingredients" : "tomato, mozzarella, basil",
+			"price" : {
+        "S" : 15,
+        "M" : 19,
+        "L" : 23
+      }
+		},
+		{
+			"id" : 2,
+			"name" : "Carbonara",
+      "ingredients" : "cream, bacon, onions, cheese",
+      "price" : {
+        "S" : 15,
+        "M" : 19,
+        "L" : 23
+      }
+		},
+		{
+			"id" : 3,
+			"name" : "4 Cheese",
+      "ingredients" : "tomato, mozzarella, blue, parmesan, cheddar",
+      "price" : {
+        "S" : 15,
+        "M" : 19,
+        "L" : 23
+      }
+		},
+	]

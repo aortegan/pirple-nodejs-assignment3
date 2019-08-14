@@ -1,0 +1,6 @@
+# Ignore all the content generated in the data folder except the menu items
+.data/carts
+.data/orders
+.data/tokens
+.data/users
+lib/config.js
